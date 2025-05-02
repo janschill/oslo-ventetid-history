@@ -1,13 +1,13 @@
 {
   "airportIata": "osl",
   "area": "csc",
-  "lastupdated": "2025-05-02T16:46:00+02:00",
+  "lastupdated": "2025-05-02T17:12:00+02:00",
   "isAvailable": true,
-  "timeText": "&lt; 10 min",
-  "timeTextMinutes": "10 min",
-  "timeMinutesRounded": 10,
-  "timeSecond": 344,
-  "time": "10",
+  "timeText": "&lt; 5 min",
+  "timeTextMinutes": "5 min",
+  "timeMinutesRounded": 5,
+  "timeSecond": 265,
+  "time": "5",
   "moreOrLess": "<",
   "isOutdated": false
 }
